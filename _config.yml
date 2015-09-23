@@ -1,2 +1,0 @@
-highlighter: pygments
-The project is called {{ site.github.NerdAlgo }}
